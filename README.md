@@ -1,14 +1,5 @@
 # National-Agrifunds-Hackathon
 
-## Submission Instruction:
-  1. Fork this repository
-  2. Create a folder with your Team Name
-  3. Upload all the code and necessary files in the created folder
-  4. Upload a **README.md** file in your folder with the below mentioned informations.
-  5. Generate a Pull Request with your Team Name. (Example: submission-XYZ_team)
-
-## README.md must consist of the following information:
-
 #### Team Name - ByteRat
 #### Problem Statement - Financial Inclusion in Remote Areas: Digital Financial Services for Unconnected Regions
 #### Team Leader Email - 727721eucs034@skcet.ac.in
