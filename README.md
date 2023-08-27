@@ -35,9 +35,5 @@ Rest API:  To fetch and retrieve weather-related data from external sources. for
   Step 4:Then you can access all the features in our application and see how it works.
   
 ## What I Learned:
-   1).We learned how to use react native to develop cross-platform mobile applications for farmers and consumers and also learned how to debug and test my app using Expo and other tools.
-   
-   2).We learned how to use python to perform data analysis and machine learning on agricultural data and how to use rest api to integrate external data sources and services into my app.
-   
-   3).We also learned how to handle errors, authentication, and rate limits.
+  Initially while creating the prototype , we have learnt how to use react native to develop cross-platform mobile applications for farmers. We also gain more knowledge in Python by performing data analysis for the feature crop recommendation and in rest api to integrate external data source . Also we have learnt how to handle and debug errors and also how to test our application by using Expo and other tools
    
