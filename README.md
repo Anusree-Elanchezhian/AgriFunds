@@ -22,7 +22,7 @@ Python: Creating a machine learning model for crop recommendation involves using
 
 Rest API:  To fetch and retrieve weather-related data from external sources. for weather analysis.
 
-## A Brief of the Prototype:
+## Use Case Diagram:
   <img src="https://res.cloudinary.com/ddlw9iej1/image/upload/v1693115914/usecase_shrpje.jpg" alt="Alt text" title="Optional title">
    
 ## Step-by-Step Code Execution Instructions:
