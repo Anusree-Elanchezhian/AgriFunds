@@ -14,7 +14,7 @@
 #### Team Leader Email - 727721eucs013@skcet.ac.in
 
 ## A Brief of the Prototype:
-  
+  <img src="E:\AgriFund\flow diagram.jpg" alt="Alt text" title="Optional title">
 ## Tech Stack: 
 React Native: To build mobile appplication that work on both iOS and Android platforms using a single codebase.
 
