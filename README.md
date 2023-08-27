@@ -27,12 +27,17 @@ Rest API:  To fetch and retrieve weather-related data from external sources. for
    
 ## Step-by-Step Code Execution Instructions:
   Step 1:Run the given files in VS Code . 
+  
   Step 2:After successful execution , a QR will be displayed .
+  
   step 3:Scan that QR using Expo go(a mobile application to be installed) and you can see that the app is opening with a login page.
+  
   Step 4:Then you can access all the features in our application and see how it works.
   
 ## What I Learned:
    1).We learned how to use react native to develop cross-platform mobile applications for farmers and consumers and also learned how to debug and test my app using Expo and other tools.
+   
    2).We learned how to use python to perform data analysis and machine learning on agricultural data and how to use rest api to integrate external data sources and services into my app.
+   
    3).We also learned how to handle errors, authentication, and rate limits.
    
